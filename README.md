@@ -2,7 +2,7 @@
   Dev-Quiz
 </h2>
 <h4 align="center">
-    O Código fonte foi feito a partir de uma aula do freeCodeCamp.org
+    O Código fonte foi feito a partir de uma aula do freeCodeCamp.org<br />
     O foco foi desenvolver a logica e a interface usando React e Typescript
 </h4>
 
